@@ -13,12 +13,13 @@
 > - Clash的代理端口是7890
 > - v2rayN的代理端口：windows上是10808，其他系统要到软件设置里面看socks5端口号或上网查
 
-![图片2.png](https://yiy.one/upload/image/20210518/1621324184740842.png "1621324184740842.png")
+![b](https://github.com/user-attachments/assets/6494caa4-374e-473a-ab45-4cc23a86500e)
 
 **第三步，切换代理模式即可上网（一定要切换不然用不了）**：
 在浏览器地址栏右侧找到圆圈状的SwitchyOmega插件图标，左键点击后出现以下菜单，然后点【系统代理]】或者【Proxy】：
 
-![image.png](https://yiy.one/upload/image/20210723/1627050489338408.png "1627050489338408.png")
+![a](https://github.com/user-attachments/assets/c0021539-51dd-496c-847d-4b553214a37f)
+
 
 > **模式说明：**
 > 【系统代理】开启VPN并打开VPN的系统代理模式时，浏览器走代理，关闭时直连。
